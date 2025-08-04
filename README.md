@@ -2,7 +2,7 @@
 
 A simple and stylish calculator built using **HTML**, **CSS**, and **JavaScript**.
 
-![Calculator Screenshot] visit assets folder for screenshot
+Visit assets folder for Screenshot
 
 ## 🚀 Features
 
